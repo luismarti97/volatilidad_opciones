@@ -1,0 +1,7 @@
+plotly
+pandas
+streamlit
+mibian
+beautifulsoup4
+scipy
+requests
